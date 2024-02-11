@@ -664,13 +664,6 @@ else if (mn2.value=="OPT15"&&coc.value=="metw2"&&mn6.value=="OPT25"){
     window.location.href='https://www.almonshe3.net/pdf/metwas/2/englshm2-2-2.html';
 }
 
-else if (mn2.value=="OPT11"&&coc.value=="metw2"&&mn6.value=="OPT24"){
-    window.location.href='https://www.almonshe3.net/pdf/metwas/3/ryathm3-2-1.html';
-}
-
-else if (mn2.value=="OPT11"&&coc.value=="metw2"&&mn6.value=="OPT25"){
-    window.location.href='https://www.almonshe3.net/pdf/metwas/3/ryathm3-2-2.html';
-}
 
 
 ///////////////////////////////////////////////////////////////
@@ -706,6 +699,15 @@ else if (mn2.value=="OPT14"&&coc.value=="metw3"&&mn3.value=="OPT16"){
 else if (mn2.value=="OPT15"&&coc.value=="metw3"&&mn3.value=="OPT16"){
     window.location.href='https://www.almonshe3.net/pdf/metwas/3/englshm3-2-1.html';
 }
+
+else if (mn2.value=="OPT11"&&coc.value=="metw3"&&mn6.value=="OPT24"){
+    window.location.href='https://www.almonshe3.net/pdf/metwas/3/ryathm3-2-1.html';
+}
+
+else if (mn2.value=="OPT11"&&coc.value=="metw3"&&mn6.value=="OPT25"){
+    window.location.href='https://www.almonshe3.net/pdf/metwas/3/ryathm3-2-2.html';
+}
+
 };
 
 let submitBoto = document.getElementById("submitBoto");
