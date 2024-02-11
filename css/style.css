@@ -1,0 +1,161 @@
+
+
+hr{
+    color: #fff;
+    height: 3%;
+
+}
+
+body{
+    background-color: #d7dcdc;
+}
+
+
+   .opch0{
+position: relative;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+flex-direction: column;
+}
+   select{
+    width: 40%;
+position: relative;
+padding: 4px;
+border: 2px solid #ccc;
+border-radius: 48px;
+appearance: none;
+font-size: 16px;
+margin-top: -1%;
+text-align: center;
+margin: 5px;
+    }
+
+    .second{
+    width: 40%;
+    position: absolute;
+        margin-right: 29.8%;
+        padding: 8px;
+        border: 2px solid #ccc;
+        border-radius: 48px;
+        -webkit-appearance: none;
+        appearance: none;
+        font-size: 16px;
+        margin-top: -1%;
+    }
+    .thani{
+    width: 40%;
+    position: absolute;
+        margin-right: 29.8%;
+        padding: 8px;
+        border: 2px solid #ccc;
+        border-radius: 48px;
+        -webkit-appearance: none;
+        appearance: none;
+        font-size: 16px;
+        margin-top: -1%;
+    }
+  
+
+.byton{
+    text-align: center;
+}
+
+  .butoon1 {
+    border: 1 px solid #700;
+    padding: 4px;
+    color: #000000;
+    background: #22d4e8;
+    border-radius: 55px;
+    transition: all 0.5s;
+    font-size: 15px;
+    width: 40%;
+
+    }
+    
+    .butoon1:hover {
+        border: 1 px solid #700;
+    padding: 8px;
+    color: #ffffff;
+    background: #848282;
+    border-radius: 45px;
+    transition: all 0.5s;
+    font-size: 18px;
+    font-weight: bold;
+    }
+
+    .btnerBack {
+        border: 1 px solid #700;
+        padding: 4px;
+        color: #000000;
+        background: #f7f304;
+        border-radius: 55px;
+        transition: all 0.5s;
+        font-size: 15px;
+        margin-top: 0.5%;
+        width: 40%;
+    
+        }
+        
+        .btnerBack:hover {
+            border: 1 px solid #700;
+        padding: 8px;
+        color: #ffffff;
+        background: #848282;
+        border-radius: 45px;
+        transition: all 0.5s;
+        font-size: 18px;
+        font-weight: bold;
+        }
+		
+.biton{
+    text-align: center;
+}
+
+  .bitonm {
+    border: 1 px solid #700;
+    padding: 4px;
+    color: #000000;
+    background: #ed33d9;
+    border-radius: 55px;
+    transition: all 0.5s;
+    font-size: 15px;
+    width: 40%;
+
+    }
+    
+    .bitonm:hover {
+        border: 1 px solid #700;
+    padding: 8px;
+    color: #ffffff;
+    background: #848282;
+    border-radius: 45px;
+    transition: all 0.5s;
+    font-size: 18px;
+    font-weight: bold;
+    }
+
+    .btnerBack1 {
+        border: 1 px solid #700;
+        padding: 4px;
+        color: #000000;
+        background: #f7f304;
+        border-radius: 55px;
+        transition: all 0.5s;
+        font-size: 15px;
+        margin-top: 0.5%;
+        width: 40%;
+    
+        }
+        
+        .btnerBack1:hover {
+            border: 1 px solid #700;
+        padding: 8px;
+        color: #ffffff;
+        background: #848282;
+        border-radius: 45px;
+        transition: all 0.5s;
+        font-size: 18px;
+        font-weight: bold;
+        }
